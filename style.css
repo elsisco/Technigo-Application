@@ -1,0 +1,23 @@
+
+body {
+  background-color: lightblue;
+  padding-left: 50px;
+  padding-top: 30px;
+}
+h1 {
+  color:teal;
+  font-family: 'Antonio', sans-serif;
+  font-size: 50px;
+  line-height: 1.8;
+}
+p {
+  color:teal;
+  width: 800px;
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+a {
+  color: yellow;
+  text-decoration: none;
+}
